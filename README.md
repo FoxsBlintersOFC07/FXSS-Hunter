@@ -24,9 +24,9 @@ Instale as dependências necessárias usando o comando abaixo:
 ```sh
 pip install -r requirements.txt
 ```
-Execute o programa usando o seguinte comando:
+Execute o programa usando o seguinte comando (sem aspas):
 ```sh
-python FXSS-Hunter.py -u <url_do_alvo>
+python FXSS-Hunter.py -u (url_do_alvo)
 ```
 
 ## 📋 Resumo
