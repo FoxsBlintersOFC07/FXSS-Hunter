@@ -14,7 +14,7 @@ Para instalar o FXSS-Hunter, siga os seguintes passos:
 
 Clone este repositório para o seu diretório local usando o comando abaixo:
 ```sh
-git clone https://github.com/FoxsBlintersOFC07/F-DDOS.git
+git clone https://github.com/FoxsBlintersOFC07/FXSS-Hunter.git
 ```
 Navegue até o diretório clonado usando o comando abaixo:
 ```sh
