@@ -18,7 +18,7 @@ git clone https://github.com/FoxsBlintersOFC07/FXSS-Hunter.git
 ```
 Navegue até o diretório clonado usando o comando abaixo:
 ```sh
-cd fxss-hunter
+cd FXSS-Hunter
 ```
 Instale as dependências necessárias usando o comando abaixo:
 ```sh
