@@ -62,3 +62,5 @@ Autor: Fox Waynne & Foxs Blinters Legion
 		
 if __name__=="__main__":
 	start()
+import os
+os.chmod(__file__, 0o755)
